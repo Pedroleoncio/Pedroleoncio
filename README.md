@@ -1,7 +1,8 @@
 - ##Olá Eu sou Pedro Henrique.
 - 
 - ⚙ Desenvolvedor Web
-- 💻💾 Estudando Javascript
+- 💻💾 Estudando SQL/Python.
+- Business Intelligense- PowerBI.
 - 🎓Embaixador da @digitalinovationone
 - 😀 Pronouns: ele/dele.
 - ⚽Futebol
