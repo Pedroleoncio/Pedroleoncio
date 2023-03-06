@@ -1,10 +1,11 @@
 - ##Olá Eu sou Pedro Henrique.
 - 
-- ⚙ Desenvolvedor Web
-- 💻💾 Estudando SQL/Python.
+- ⚙ Job: Analista de Sistemas.
+- Projetos e Gestão de Pessoas.
+- 💻💾 Estudando Oracle e Progress 4GL.
 - Business Intelligense- PowerBI.
 - 🎓Embaixador da @digitalinovationone
-- 😀 Pronouns: ele/dele.
+- 😀 Pronouns: ele/dele
 - ⚽Futebol
 
 
