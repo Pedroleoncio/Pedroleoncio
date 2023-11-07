@@ -1,8 +1,8 @@
 - ##Olá Eu sou Pedro Henrique.
 - 
-- ⚙ Job: Analista de Sistemas.
+- ⚙ Job: Analista de Sistemas Sr.
 - Projetos e Gestão de Pessoas.
-- 💻💾 Estudando Oracle e Progress 4GL.
+- 💻💾 Oracle, Mysql, Java Spring boot e Progress 4GL.
 - Business Intelligense- PowerBI.
 - 🎓Embaixador da @digitalinovationone
 - 😀 Pronouns: ele/dele
