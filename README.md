@@ -4,6 +4,7 @@
 - Projetos e Gestão de Pessoas.
 - Especialista em EPP´s ; DATASUL,PROTEUS,CMNET,RM(TOTVS), SICOF,
 - 💻💾 Oracle, Mysql, Java Spring boot e Progress 4GL.
+- PHP , com enfase no Framwork  Laravel.
 - Business Intelligense- PowerBI.
 - 🎓Embaixador da @digitalinovationone
 - 😀 Pronouns: ele/dele
