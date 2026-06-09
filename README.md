@@ -1,103 +1,89 @@
-<h1 align="center">👋 Olá, eu sou Pedro Henrique</h1>
+<h1 align="center">👨‍💻 Pedro Henrique</h1>
 
 <p align="center">
-💼 Analista de Sistemas Sênior | 🚀 Especialista em ERP, Integrações e Automação | 📊 Data Driven
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=24&center=true&vCenter=true&width=800&lines=Analista+de+Sistemas+S%C3%AAnior;Especialista+em+ERP+%7C+Integra%C3%A7%C3%B5es+%7C+Automa%C3%A7%C3%A3o;Arquitetura+de+Solu%C3%A7%C3%B5es+Corporativas;Data+Driven+%7C+Process+Automation" />
 </p>
 
 ---
 
-## 🧠 Sobre mim
+## 🚀 Sobre mim
 
-Profissional de TI com sólida experiência em **análise de sistemas, integração entre negócio e tecnologia e implantação de ERPs**.  
+💼 Analista de Sistemas Especialista com forte atuação em **arquitetura de soluções, integração de sistemas e automação de processos corporativos**  
 
-Atuo com foco em:
-- Automação de processos (RPA)
-- Integração de sistemas e APIs
-- Arquitetura de soluções corporativas
-- Business Intelligence e tomada de decisão baseada em dados
-
-🎯 Sempre buscando eficiência operacional, redução de custos e inovação tecnológica.
+🎯 Foco em gerar valor através de:
+- Integrações inteligentes entre sistemas
+- Redução de processos manuais
+- Eficiência operacional com tecnologia
+- Decisão orientada a dados
 
 ---
 
-## ⚙️ Tech & Skills
+## ⚡ # 💻 Linguagens & Backend
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white
+https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white
+!PHP
+https://img.shields.io/badge/Laravel-EF4135?style=for-the-badge&logo=laravel&logoColor=white
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 💻 Desenvolvimento & Integração
-- Java (Spring Boot)
-- PHP (Laravel)
-- Python (Automação)
-- Progress 4GL / ADVPL / TL++
+---
 
-### 🗄 Banco de Dados
-- SQL Server
-- Oracle
-- MySQL
+### 🏢 ERP & Sistemas Corporativos
+![TOTVS](https://img.shields.io/badge/TOTVS-0033A0?style=for-the-badge)
+![Protheus](https://img.shields.io/badge/Protheus-ff6600?style=for-the-badge)
+![Datasul](https://img.shields.io/badge/Datasul-1f6feb?style=for-the-badge)
+![RM](https://img.shields.io/badge/RM-TOTVS-blue?style=for-the-badge)
+
+---
+
+### 🗄️ Banco de Dados
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
 
 ### 🔗 Integração & Automação
-- APIs REST
-- n8n
-- RPA
-- BPMN
+![API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge)
+![RPA](https://img.shields.io/badge/RPA-Automation-green?style=for-the-badge)
+
+---
 
 ### 📊 Data & BI
-- Power BI
-- KPIs & Dashboards
-- Governança de Dados
-
-### 🏢 ERPs
-- TOTVS Protheus
-- TOTVS Datasul
-- RM
-- CMNet
-- SICOF
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
-## 🚀 Destaques
+## 🧠 Especialidades
 
-- ✅ +10 anos de experiência em TI
-- ✅ Implantação e evolução de ERPs corporativos
-- ✅ Automação de processos com Python e RPA
-- ✅ Integrações complexas entre sistemas
-- ✅ Desenvolvimento de dashboards estratégicos
-- ✅ Atuação com metodologia ágil (Scrum/Kanban)
-
----
-
-## 📌 Projetos em destaque
-
-🚧 Em constante evolução — em breve novos projetos públicos com foco em:
-- APIs corporativas
-- Automação de processos
-- Integrações entre sistemas
-- Dashboards e BI
-
-👉 Acesse meu portfólio:
-🔗 https://pedroleoncio.github.io/portifolio
+✔ Integração de sistemas corporativos  
+✔ Automação de processos (RPA / Python / n8n)  
+✔ Arquitetura de soluções  
+✔ Implantação e evolução de ERPs  
+✔ BI e criação de dashboards estratégicos  
+✔ Levantamento de requisitos e interface com negócio  
 
 ---
 
 ## 📊 Estatísticas
 
-<div align="center">
-  <a href="https://github.com/Pedroleoncio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedroleoncio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroleoncio&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Pedroleoncio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroleoncio&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-## 🌐 Contato
+## 🌐 Conecte-se comigo
 
-<div>
+<p align="center">
   <a href="mailto:phleonciosilva@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/pedro-henrique-a15917b2/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/pedro-henrique-a15917b2/">
+    <img src="https://img.shields.io/badge/LinkedIn-Access-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</div>
+</p>
 
 ---
 
@@ -105,3 +91,10 @@ Atuo com foco em:
 
 - 🎓 Embaixador da Digital Innovation One  
 - ⚽ Apaixonado por futebol  
+- 💡 Focado em automação e inovação contínua  
+
+---
+
+<p align="center">
+🚀 "Transformando processos complexos em soluções eficientes"
+</p>
