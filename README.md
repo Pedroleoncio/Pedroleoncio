@@ -27,30 +27,44 @@ https://img.shields.io/badge/Laravel-EF4135?style=for-the-badge&logo=laravel&log
 
 ---
 
-### 🏢 ERP & Sistemas Corporativos
-![TOTVS](https://img.shields.io/badge/TOTVS-0033A0?style=for-the-badge)
+TOTVS](https://img.shields.io/badge/TOTVS-0033A0?style=for-the-badge)
 ![Protheus](https://img.shields.io/badge/Protheus-ff6600?style=for-the-badge)
 ![Datasul](https://img.shields.io/badge/Datasul-1f6feb?style=for-the-badge)
 ![RM](https://img.shields.io/badge/RM-TOTVS-blue?style=for-the-badge)
+![Sankhya](https://img.shields.io/badge/Sankhya-00A859?style=for-the-badge)
+![SAP HANA](https://img.shields.io/badge/SAP_HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Fusion DMS](https://img.shields.io/badge/Fusion_DMS-555?style=for-the-badge)
+![SICOF](https://img.shields.io/badge/SICOF-gray?style=for-the-badge)
+![CMNET](https://img.shields.io/badge/CMNET-darkblue?style=for-the-badge)
 
 ---
+
 
 ### 🗄️ Banco de Dados
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 ---
 
+
 ### 🔗 Integração & Automação
-![API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
 ![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge)
+![Make](https://img.shields.io/badge/Make-6366F1?style=for-the-badge)
 ![RPA](https://img.shields.io/badge/RPA-Automation-green?style=for-the-badge)
+
 
 ---
 
 ### 📊 Data & BI
+
+### 📊 Data & BI
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Apache Superset](https://img.shields.io/badge/Apache_Superset-20A6C9?style=for-the-badge)
 
 ---
 
@@ -61,7 +75,9 @@ https://img.shields.io/badge/Laravel-EF4135?style=for-the-badge&logo=laravel&log
 ✔ Arquitetura de soluções  
 ✔ Implantação e evolução de ERPs  
 ✔ BI e criação de dashboards estratégicos  
-✔ Levantamento de requisitos e interface com negócio  
+✔ Levantamento de requisitos e interface com negócio<br>
+✔ Desenvolvimento e arquitetura de software
+
 
 ---
 
